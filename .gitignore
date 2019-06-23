@@ -1,6 +1,7 @@
 # Credentials source #
 ######################
 credentials.json
+tokens/*.*
 
 # Compiled source #
 ###################
